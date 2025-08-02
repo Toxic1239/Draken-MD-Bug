@@ -11,7 +11,7 @@ global.ytname = "YT: ToxxicTech"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Nigeria"
 
-global.ownernumber = '2348165846414'  //creator number
+global.ownernumber = '919339344963'  //creator number
 global.ownername = '𝑻𝒐𝒙𝒙𝒊𝒄 𝑻𝒆𝒄𝒉' //owner name
 global.botname = '𝒁𝒆𝒏𝒐𝒏 𝒁𝒐𝒈𝒓𝒂𝒕𝒊𝒔' //name of the bot
 
