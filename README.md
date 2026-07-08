@@ -1,11 +1,11 @@
-<h1 align="center"> ZENON CRASH </h1>
+<h1 align="center"> B4N V9 SLASH </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img [src="(https://u.pone.rs/jjzzooga.jpg)?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;B4N V9 +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+B4N SLASH;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
-    <a href="https://ibb.co/th8DJZN"><img src="https://i.ibb.co/th8DJZN/o.jpg" alt="o" border="0"></a>
+    <a href="[https://ibb.co/th8DJZN](https://u.pone.rs/jjzzooga.jpg)"><img src="https://i.ibb.co/th8DJZN/o.jpg" alt="o" border="0"></a>
 <p align="center">
 <p align="center">
 <a href="https://github.com/Toxic1239/Zenon_Crash"><img title="Author" src="https://img.shields.io/badge/ZenonCrash?style=for-the-badge&logo=github"></a>
